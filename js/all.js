@@ -21,7 +21,7 @@ $(document).ready( function () {
             {'data':'item'},
             {'data':'supply'},
             {'data':'date'},
-            {'data':'unit'},
+            {'data':'uni'},
             {'data':'amount'},
             {'data':'unitPrice'},
 
