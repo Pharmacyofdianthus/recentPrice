@@ -15,18 +15,15 @@ $(document).ready( function () {
                     targets: [1,2,3,4,5,6,7,8,9]
                 }
             ],
-        'ajax':'data/pricedataV2.txt',
+        'ajax':'data/pricedataV3.txt',
         'columns':[
             {'data':'partition'},
-            {'data':'index'},
-            {'data':'itemNum'},
             {'data':'item'},
             {'data':'supply'},
             {'data':'date'},
             {'data':'unit'},
             {'data':'amount'},
             {'data':'unitPrice'},
-            {'data':'insurancePrice'}
 
         ]
     },
