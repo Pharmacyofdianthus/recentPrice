@@ -12,7 +12,7 @@ $(document).ready( function () {
                     searchPanes: {
                         show: false
                     },
-                    targets: [1,2,3,4,5,6,7,8,9]
+                    targets: [1,2,3,4,5,6,7]
                 }
             ],
         'ajax':'data/pricedataV3.txt',
