@@ -15,7 +15,7 @@ $(document).ready( function () {
                     targets: [1,2,3,4,5,6,7]
                 }
             ],
-        'ajax':'data/pricedataV3.txt',
+        'ajax':'data/pricedataV2.txt',
         'columns':[
             {'data':'partition'},
             {'data':'item'},
